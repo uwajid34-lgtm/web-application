@@ -124,7 +124,7 @@
         </div>
         <div class="section">
             <h3>Student Lifess</h3>
-            <p>We offer a vibrant campuss life with clubs, events, and opportunities for students to grow both academically and socially.</p>
+            <p>We offer a vibrant campuss life with clubs, and social services, events, and opportunities for students to grow both academically and socially.</p>
         </div>
     </section>
 
